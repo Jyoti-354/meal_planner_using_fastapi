@@ -36,8 +36,5 @@ You can register users, create meal plans, and fetch them.
 
 
 
-### 6. Reminder Function
-A placeholder reminder function prints notifications in the terminal for testing.
-
 ---
 Database: SQLite (auto-created file `mealplanner.db`)
